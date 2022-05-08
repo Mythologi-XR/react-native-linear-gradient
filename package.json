@@ -1,6 +1,6 @@
 {
   "name": "@mythologi/react-native-linear-gradient",
-  "version": "2.5.7",
+  "version": "2.5.8",
   "description": "A <LinearGradient> element for React Native",
   "main": "index.js",
   "files": [
@@ -48,8 +48,8 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "react": "^16.8.1",
-    "react-native": ">=0.55"
+    "react": ">=16.8.1",
+    "react-native": ">=0.60"
   },
   "devDependencies": {
     "flow-bin": "^0.173",
